@@ -1,6 +1,6 @@
 # Table of contents
 
-* [OpenChain 해설서](README.md)
+* [OpenChain 해설서 \(draft\)](README.md)
 * [1. OpenChain Project란?](openchain/README.md)
   * [1.1 OpenChain Specification](openchain/specification.md)
   * [1.2 OpenChain Conformance](openchain/conformance.md)
