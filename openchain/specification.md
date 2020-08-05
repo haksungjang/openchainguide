@@ -6,7 +6,8 @@ OpenChain 프로젝트는 곧 OpenChain Specification 1.0을 제작하여 배포
 2. 효과적인 리소스 제공을 위한 업무 정의 및 지원
 3. 오픈소스 검토 및 승인을 관리하는 프로세스
 4. 컴플라이언스 결과물 생성 및 제공을 위한 프로세스
-5. 오픈소스 커뮤니티 참여를 이해하고 관리하기 위한 정책 6. OpenChain Specification 요건 준수
+5. 오픈소스 커뮤니티 참여를 이해하고 관리하기 위한 정책 
+6. OpenChain Specification 요건 준수
 
 오픈소스 컴플라이언스를 처음 시작하는 기업이라면 이와 같은 OpenChain Specification의 요건을 하나씩 충족해가면서 수준을 향상시키는 것이 좋은 전략이다.
 
