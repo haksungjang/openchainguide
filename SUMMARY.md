@@ -20,7 +20,7 @@
     * [3.2 라이선스 컴플라이언스](howto/contents/license.md)
   * [4. 컴플라이언스 결과물 생성 및 전달](howto/artifect/README.md)
     * [4.1 컴플라이언스 결과물 \(Compliance Artifacts\)](howto/artifect/compliance-artifacts.md)
-  * [5. 오픈소스 커뮤니티 참여에 대한 의해](howto/community/README.md)
+  * [5. 오픈소스 커뮤니티 참여에 대한 이해](howto/community/README.md)
     * [5.1 기여 \(Contributions\)](howto/community/contributions.md)
   * [6. 설명서 요건 준수](howto/conformance/README.md)
     * [6.1 준수 \(Conformance\)](howto/conformance/conformance.md)
