@@ -62,7 +62,9 @@
       </td>
     </tr>
   </tbody>
-</table>### Step 2. 소스 코드 검사 \(Auditing Source Code\)
+</table>
+
+### Step 2. 소스 코드 검사 \(Auditing Source Code\)
 
 ![](../.gitbook/assets/image.png)
 
@@ -90,7 +92,9 @@
       </td>
     </tr>
   </tbody>
-</table>### Step 3. 문제 해결 \(Resolving Issues\)
+</table>
+
+### Step 3. 문제 해결 \(Resolving Issues\)
 
 ![](../.gitbook/assets/image%20%2819%29.png)
 
@@ -142,7 +146,9 @@
         </td>
     </tr>
   </tbody>
-</table>### Step 6. 등록 \(Registration\)
+</table>
+
+### Step 6. 등록 \(Registration\)
 
 ![](../.gitbook/assets/image%20%2823%29.png)
 
@@ -201,7 +207,9 @@
       </td>
     </tr>
   </tbody>
-</table>### Step 9. 배포 \(Distribution\)
+</table>
+
+### Step 9. 배포 \(Distribution\)
 
 ![](../.gitbook/assets/image%20%2822%29.png)
 
