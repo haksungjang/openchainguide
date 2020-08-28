@@ -42,10 +42,10 @@ FOSSology를 설치할 수 있는 시스템 구축이 곤란한 상황이라면,
 사용자는 다음 계정으로 FOSSology 테스트 서버에 접속하여 FOSSology 기능을 시험해볼 수 있다.
 
 {% hint style="info" %}
-테스트 서버 URL: [http://83.169.21.23/fossology/](http://83.169.21.23/fossology/)
+테스트 서버 URL: [https://fossology.osuosl.org/](https://fossology.osuosl.org/)
 
-* Username: testuser
-* Password: test
+* Username: fossy
+* Password: fossy
 {% endhint %}
 
 ![](../../.gitbook/assets/image%20%285%29.png)
