@@ -18,7 +18,7 @@ A process exists for reviewing the Identified Licenses to determine the obligati
 
 #### Verification Material\(s\):
 
- 1.4.1 A written statement that clearly defines the scope and limits of the Program.
+ 1.5.1 A written statement that clearly defines the scope and limits of the Program.
 {% endtab %}
 {% endtabs %}
 
