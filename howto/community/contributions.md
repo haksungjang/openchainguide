@@ -41,7 +41,4 @@ If an organization permits contributions to Open Source projects then the follow
 
 {% page-ref page="../../appendix/policy.md" %}
 
-{% page-ref page="../../appendix/policy.md" %}
-
-
 
